@@ -2,6 +2,14 @@
 
 Software Engineer | AI/ML & Backend | MS CS 2026 @ University of North Texas (4.0 GPA)
 
+### 📊 GitHub Stats
+<table>
+<tr>
+<td><img src="https://github-readme-stats-rickstaa.vercel.app/api?username=sreedevi-i&show_icons=true&theme=midnight-purple&hide_rank=true&hide=stars" /></td>
+<td><img src="https://github-readme-stats-rickstaa.vercel.app/api/top-langs/?username=sreedevi-i&layout=compact&theme=midnight-purple&langs_count=6" /></td>
+</tr>
+</table>
+
 I build things across backend systems, data pipelines, and applied ML — from
 real-time anomaly detection to multi-agent RAG systems. Currently based in
 Pittsburgh, PA, open to opportunities in software engineering and AI/ML roles.
@@ -26,6 +34,8 @@ Pittsburgh, PA, open to opportunities in software engineering and AI/ML roles.
 Previously a Software Engineer at EPAM Systems, where I built a SIEM
 log-parsing pipeline handling 25,000+ logs across 4 formats, and worked on
 CRM platform features on AWS.
+
+
 
 
 ---
