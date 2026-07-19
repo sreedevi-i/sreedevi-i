@@ -1,16 +1,32 @@
-## Hi there 👋
+### Hi, I'm Sreedevi 👋
 
-<!--
-**sreedevi-i/sreedevi-i** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer | AI/ML & Backend | MS CS 2026 @ University of North Texas (4.0 GPA)
 
-Here are some ideas to get you started:
+I build things across backend systems, data pipelines, and applied ML — from
+real-time anomaly detection to multi-agent RAG systems. Currently based in
+Pittsburgh, PA, open to opportunities in software engineering and AI/ML roles.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+**🔧 What I work with**
+
+`Python` `Java` `TypeScript` `SQL` · `Spring Boot` `Flask` `React` `Node.js` ·
+`AWS` `GCP` `Azure` `Docker` · `Kafka` `PostgreSQL` `BigQuery` ·
+`TensorFlow` `PyTorch` `scikit-learn` · `LangChain` `LangGraph`
+
+**🚀 A few things I've built**
+
+- **[Investment Analyst AI Agent](#)** — Multi-agent RAG system (LangChain/LangGraph) over Tesla's 10-K filings, with Chroma + Gemini embeddings and rate-limited batch ingestion
+- **[Real-Time Kafka Anomaly Detection Pipeline](#)** — Streaming anomaly detection with Kafka, PostgreSQL, and Flask, containerized with Docker
+- **[Fake News Detection](#)** — TF-IDF classification pipeline with a Flask/React app, deployed on Render + Vercel
+- **[nanoGPT Hyperparameter Study](#)** — 128-configuration study on a Shakespeare-trained GPT (PyTorch)
+
+**💼 Background**
+
+Previously a Software Engineer at EPAM Systems, where I built a SIEM
+log-parsing pipeline handling 25,000+ logs across 4 formats, and worked on
+CRM platform features on AWS.
+
+
+---
+<sub>⭐️ from [sreedevi-i](https://github.com/sreedevi-i)</sub>
