@@ -12,7 +12,7 @@ Software Engineer | AI/ML & Backend | MS CS 2026 @ University of North Texas (4.
 
 I build things across backend systems, data pipelines, and applied ML — from
 real-time anomaly detection to multi-agent RAG systems. Currently based in
-Pittsburgh, PA, open to opportunities in software engineering and AI/ML roles.
+Irving, TX, open to opportunities in software engineering and AI/ML roles.
 
 ---
 
